@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center" height="20" >GitHub Statistics</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lgsantos&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lgsantos&theme=dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsantos&layout=compact&langs_count=7&theme=dark   "/>
+<div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lgsantos&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsantos&layout=compact&langs_count=7&theme=dark   "/>
+</div>
+<div align="center">
+        <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=Lgsantos&theme=dark" alt="Lgsantos" />
+</div>
