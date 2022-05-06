@@ -32,3 +32,14 @@ Here are some ideas to get you started:
 <div align="center">
         <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=Lgsantos&theme=dark" alt="Lgsantos" />
 </div>
+
+<h3 align="center" height="20" >Linguagens e Ferramentas:</h3>
+	
+				 
+				 
+<div style="display: inline_block;" align="center"><br>
+  <img align="center" alt="rd-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="rd-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="rd-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> 
