@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lgsantos&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lgsantos"&theme=dark/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lgsantos" &theme=dark/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsantos&layout=compact&langs_count=7&theme=dark   "/>
