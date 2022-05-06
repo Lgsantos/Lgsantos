@@ -4,11 +4,21 @@ I am an mechanical engineer with a Master Degree in Innovation and a MBA.
 The last 14 years I have been working as a PO for the development of new services and processes using:
     - Design Thinking
     - Agile Methodologies
-I am currently studing programing languages and development tools for:
+I am continuously studing languages, methodologies and development tools for:
     - Fast prototyping
     - Efficient Customer validation
     - Reduced time to market
 ```
+<h3 align="center" height="20" >Languages & Tools</h3>
+				 
+<div style="display: inline_block;" align="center"><br>
+  <img align="center" alt="rd-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="rd-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="rd-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br> 
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Lgsantos&theme=xcode&hide_border=true&area=true)
 
 <h3 align="center" height="20" >GitHub Statistics</h3>
 
@@ -19,15 +29,6 @@ I am currently studing programing languages and development tools for:
 <div align="center">
         <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=Lgsantos&theme=dark" alt="Lgsantos" />
 </div>
-
-<h3 align="center" height="20" >Languages & Tools</h3>
-				 
-<div style="display: inline_block;" align="center"><br>
-  <img align="center" alt="rd-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="rd-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="rd-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> 
 
 <!--
 **Lgsantos/lgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
