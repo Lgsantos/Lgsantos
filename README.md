@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lgsantos&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsantos&show_icons=true&theme=dark" &include_all_commits=true&count_private=true"/)](https://github.com/anuraghazra/github-readme-stats)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lgsanto&show_icons=true&theme=dark" &include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsantos&layout=compact&langs_count=7&theme=dark   "/>
