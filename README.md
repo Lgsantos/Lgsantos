@@ -1,10 +1,10 @@
 ### LUÍS GUSTAVO DOS SANTOS
 ```javascript
 I am an mechanical engineer with a Master Degree in Innovation and a MBA.
-The last 14 years I have been working on the development of new services and processes using:
+The last 14 years I have been working as a PO for the development of new services and processes using:
     - Design Thinking
     - Agil Methodologies
-I am currently learing new programing languages and development tools for:
+I am currently studing programing languages and development tools for:
     - Fast prototyping
     - Efficient Customer validation.
 ```
