@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="center" height="20" >GitHub Statistics</h3>
 
 <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lgsantos&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lgsantos&theme=dark&show_icons=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsantos&layout=compact&langs_count=7&theme=dark   "/>
 </div>
 <div align="center">
