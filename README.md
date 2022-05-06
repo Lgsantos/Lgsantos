@@ -3,10 +3,11 @@
 I am an mechanical engineer with a Master Degree in Innovation and a MBA.
 The last 14 years I have been working as a PO for the development of new services and processes using:
     - Design Thinking
-    - Agil Methodologies
+    - Agile Methodologies
 I am currently studing programing languages and development tools for:
     - Fast prototyping
-    - Efficient Customer validation.
+    - Efficient Customer validation
+    - Reduced time to market
 ```
 <!--
 **Lgsantos/lgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
