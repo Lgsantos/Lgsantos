@@ -1,10 +1,12 @@
 ### LUÍS GUSTAVO DOS SANTOS
 ```javascript
-I'm an mechanical engineer with a Master Degree in Innovation and a MBA.
-The last 14 years I've been working on the development of new services and processes using:
+I am an mechanical engineer with a Master Degree in Innovation and a MBA.
+The last 14 years I have been working on the development of new services and processes using:
     - Design Thinking
     - Agil Methodologies
-I'm currently learing new programing languages and development tools to improve my skill for fast prototyping and customer validation.
+I am currently learing new programing languages and development tools for:
+    - Fast prototyping
+    - Efficient Customer validation.
 ```
 <!--
 **Lgsantos/lgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
