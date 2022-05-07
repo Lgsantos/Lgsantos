@@ -29,7 +29,7 @@ I am continuously studing languages, methodologies and development tools for:
 <div align="center">
         <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=Lgsantos&theme=dark" alt="Lgsantos" />
 </div>
-<a href="#", target="_blank">See my Android page.</a>
+<a href="https://github.io/Lgsantos/Android", target="_blank">See my Android page.</a>
 <!--
 **Lgsantos/lgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
