@@ -29,7 +29,10 @@ I am continuously studing languages, methodologies and development tools for:
 <div align="center">
         <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=Lgsantos&theme=dark" alt="Lgsantos" />
 </div>
-<a href="https://lgsantos.github.io/Android/", target="_blank">See my Android page.</a>
+
+<h3 align="center" height="20" >My projects</h3>
+<p>See my solution for Curso em Vídeo's HTML5 & CSS3 <a href="https://lgsantos.github.io/Cordel/", target="_blanked">Cordel webpage</a> challenge.</p>
+<p>See my solution for Curso em Vídeo's HTML5 & CSS3 <a href="https://lgsantos.github.io/Android/", target="_blanked">Android webpage</a> challenge.</p>
 <!--
 **Lgsantos/lgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
