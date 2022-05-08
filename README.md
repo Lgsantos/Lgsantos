@@ -1,7 +1,7 @@
 ### LUÍS GUSTAVO DOS SANTOS
 ```dart
 I am a mechanical engineer with a Master Degree in Innovation and a MBA.
-The last 14 years I have been working as a PO for the development of new services and processes using:
+In the last 14 years I have been working as a PO for the development of new services and processes using:
     - Design Thinking
     - Agile Methodologies
 I am continuously studing languages, methodologies and development tools for:
