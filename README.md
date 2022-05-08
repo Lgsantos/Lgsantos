@@ -30,9 +30,10 @@ I am continuously studing languages, methodologies and development tools for:
         <img height="200" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=Lgsantos&theme=dark" alt="Lgsantos" />
 </div>
 
-<h3 align="center" height="20" >My projects</h3>
-<p>See my solution for Curso em Vídeo's HTML5 & CSS3 <a href="https://lgsantos.github.io/Cordel/", target="_blanked">Cordel webpage</a> challenge.</p>
-<p>See my solution for Curso em Vídeo's HTML5 & CSS3 <a href="https://lgsantos.github.io/Android/", target="_blanked">Android webpage</a> challenge.</p>
+<h3 align="center" height="20" >My projects</h3><br>
+<p>See my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/QuickTip/", target="_blanked">QuickTip</a> project.</p>
+<p>See my solution for <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>'s HTML5 & CSS3 <a href="https://lgsantos.github.io/Cordel/", target="_blanked">Cordel</a> challenge.</p>
+<p>See my solution for <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>'s HTML5 & CSS3 <a href="https://lgsantos.github.io/Android/", target="_blanked">Android</a> challenge.</p>
 <!--
 **Lgsantos/lgsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
