@@ -37,6 +37,7 @@ I am continuously studing languages, methodologies and development tools for:
 </div>
 
 <h3 align="center" height="20" >My projects</h3><br>
+<p>See my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/RunningTracker/", target="_blanked">RunningTracker</a> project.</p>
 <p>See my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/QuickTip/", target="_blanked">QuickTip</a> project.</p>
 <p>See my solution for <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>'s HTML5 & CSS3 <a href="https://lgsantos.github.io/Cordel/", target="_blanked">Cordel</a> challenge.</p>
 <p>See my solution for <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>'s HTML5 & CSS3 <a href="https://lgsantos.github.io/Android/", target="_blanked">Android</a> challenge.</p>
