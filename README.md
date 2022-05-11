@@ -17,7 +17,7 @@ I am continuously studing languages, methodologies and development tools for:
 	<img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="rd-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="rd-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-	<img align="center" alt="rd-Axure" height="40" width="40" src="https://github.com/Lgsantos/HTML5_e_CSS3/blob/fceb36018645979737b37e6443b4e252322a8912/images/axure.png">
+	<img align="center" alt="rd-Axure" height="40" width="40" src="https://github.com/Lgsantos/HTML5_e_CSS3/blob/401c861b7274baae5bcbc2d6a2b407a148e66bac/images/axure-rp-pro.png">
 	<img align="center" alt="rd-Gimp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
 	<img align="center" alt="rd-Inkscape" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg">
 	<img align="center" alt="rd-Blender" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
