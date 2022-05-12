@@ -38,6 +38,7 @@ I am continuously studing languages, methodologies and development tools for:
 </div>
 
 <h3 align="center" height="20" >My projects</h3><br>
+This is my solution for [Guessing a Number Game](https://lgsantos.github.io/NumberGuessing/){:target="_blank"}
 <p>This is my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/NumberGuessing/", target="_blank">Guessing a Number Game</a> project.</p>
 <p>See my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/RunningTracker/", target="_blank">RunningTracker</a> project.</p>
 <p>My solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/QuickTip/", target="_blank">QuickTip</a> project.</p>
