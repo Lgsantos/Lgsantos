@@ -17,7 +17,7 @@ I am continuously studing languages, methodologies and development tools for:
 	<img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-	<img align="center" alt="WordPress" height="60" width="50" src="https://raw.githubusercontent.com/Lgsantos/HTML5_e_CSS3/main/images/logo_wordpress.svg">
+	<img align="center" alt="WordPress" height="40" width="40" src="https://raw.githubusercontent.com/Lgsantos/HTML5_e_CSS3/main/images/logo_wordpress.svg">
 	<img align="center" alt="Axure RP 8" height="40" width="40" src="https://github.com/Lgsantos/HTML5_e_CSS3/blob/401c861b7274baae5bcbc2d6a2b407a148e66bac/images/axure-rp-pro.png">
 	<img align="center" alt="Gimp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
 	<img align="center" alt="Inkscape" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg">
@@ -38,6 +38,7 @@ I am continuously studing languages, methodologies and development tools for:
 </div>
 
 <h3 align="center" height="20" >My projects</h3><br>
+<p>This is solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/RunningTracker/", target="_blanked">Guessing a Number Game</a> project.</p>
 <p>See my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/RunningTracker/", target="_blanked">RunningTracker</a> project.</p>
 <p>See my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/QuickTip/", target="_blanked">QuickTip</a> project.</p>
 <p>See my solution for <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>'s HTML5 & CSS3 <a href="https://lgsantos.github.io/Cordel/", target="_blanked">Cordel</a> challenge.</p>
