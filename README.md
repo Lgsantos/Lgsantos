@@ -39,7 +39,7 @@ I am continuously studing languages, methodologies and development tools for:
 
 <h3 align="center" height="20" >My projects</h3><br>
 
-<p>I am currently writing JavaScript versions of my solutions for See my proposal for <a href="https://www.cursoemvideo.com/">https://www.cursoemvideo.com/</a> Python course <a href="https://lgsantos.github.io/Python_Curso_em_Video/", target="_blank"> Python to JavaScript</a> project.</p>
+<p>I am currently writing JavaScript versions of my solutions for <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>'s Python course <a href="https://lgsantos.github.io/Python_Curso_em_Video/", target="_blank"> Python to JavaScript</a> project.</p>
 <p>See my proposal for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/MusicPlayer/", target="_blank">Music Player Page</a> project.</p>
 <p>Check it out my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/PhotoEffectsApp/", target="_blank">Photo Effects App</a> project.</p>
 <p>This is my solution for <a href="https://fun-javascript-projects.com/">Fun Javascript Project</a>'s <a href="https://lgsantos.github.io/NumberGuessing/", target="_blank">Guessing a Number Game</a> project.</p>
