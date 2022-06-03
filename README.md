@@ -25,7 +25,8 @@ I am continuously studing languages, methodologies and development tools for:
 	<img align="center" alt="Arduino" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div><br> 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Lgsantos&theme=xcode&hide_border=true&area=true)
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Lgsantos&theme=xcode&hide_border=true&area=true)-->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lgsantos&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center" height="20" >GitHub Statistics</h3>
 
